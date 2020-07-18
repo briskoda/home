@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "BRISKODA Home Pages",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A gatsby set of home/model overview pages for briskoda.net",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Colin Densem <colin@briskoda.net>",
   "dependencies": {
     "gatsby": "^2.23.12",
     "gatsby-image": "^2.4.9",
